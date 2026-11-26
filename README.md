@@ -1,4 +1,7 @@
 # Contiguous Memory Allocation Simulator
+Submitted by 
+Aaditya A Wol, Usn:-1NT24EC002
+Varun Pratap Singh, Usn:-1NT24EC177
 
 A Python command-line simulator demonstrating how an Operating System manages contiguous physical memory partitions, handles dynamic allocation strategies, and resolves external fragmentation.
 
